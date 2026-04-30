@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+​✿ ​🇬​​🇮​​🇻​​🇪​ ​🇲​​🇪​ ​🇦​ ​🇼​​🇭​​🇴​​🇱​​🇪​ ​🇫​​🇱​​🇴​​🇼​​🇪​​🇷​ ​🇧​​🇴​​🇺​​🇶​​🇺​​🇪​​🇹​ ​🇼​​🇮​​🇹​​🇭​ ​🇾​​🇴​​🇺​​🇷​ ​🇳​​🇦​​🇲​​🇪​ ​🇴​​🇳​ ​🇮​​🇹​​
+</p>
 
-<!--
-**diivinest/diivinest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+​𝑅𝒾𝓈𝓀 𝑜𝓇 𝒩𝑒𝓏𝑜​
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b> 𝐻𝐸𝒴 𝒜𝒵𝑅𝐸𝒮𝒜𝒮𝐻𝐻𝐻​ <br>
+  <a href= "https://github.com/Azresash"> 𝓂𝓎 𝓁𝑜𝓋𝑒 𝒽𝑒𝒽 </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-diivinest&label=Saves&color=3484a0&style=plastic&abbreviated=true&base=100">
+</p>
